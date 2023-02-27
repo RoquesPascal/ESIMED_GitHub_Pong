@@ -1,0 +1,20 @@
+{
+	"name": "daoudou/accumulate"
+	"description": "Exercice PHP Accumulate"
+	"require-dev": {
+		"phpunit/phpunit": "*"
+	},
+	"authors":[
+		{
+			"name":"daoudou"
+			"email":"daoudou@email.com"
+
+		}
+	],
+	"license":"MIT"
+	"require":{},
+	"scripts":{
+		"test" "AccumulateTest --colors"
+	}
+
+}
